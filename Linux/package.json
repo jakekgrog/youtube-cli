@@ -1,9 +1,10 @@
-
 {
   "dependencies": {
     "commander": "^2.14.1",
     "inquirer": "^5.1.0",
-    "mongoose": "^5.0.6"
+    "mongoose": "^5.0.6",
+    "opn": "^5.2.0",
+    "youtube-search": "^1.0.10"
   },
   "name": "yt",
   "preferGlobal": true,

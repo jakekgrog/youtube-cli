@@ -14,7 +14,7 @@ program
 // Process the search query by passing to ./search
 program
     .command('search <query>')
-    .alias('-s')
+    .alias('s')
     .description("Search videos")
     .action(query => 
         search(query) //Call the search command and pass query
