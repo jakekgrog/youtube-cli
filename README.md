@@ -14,8 +14,9 @@
 # Features To Come
 
 1. Search videos option
-2. Download videos option
-3. Upload videos option
+2. Play videos option
+3. Download videos option
+4. Upload videos option
 
 
 ## App Info
