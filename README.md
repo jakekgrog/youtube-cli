@@ -5,8 +5,17 @@
 
 # Installation Instructions
 
+### Prerequisites:
+1. NodeJS & NPM
+
+Clone this repository:
 ```
-#To be updated
+$ git clone https://www.github.com/r-dog/youtube-cli
+```
+
+In the Linux folder, run:
+```
+$ npm link
 ```
 
 ##### To be updated
