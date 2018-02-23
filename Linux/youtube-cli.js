@@ -1,7 +1,12 @@
+#!/usr/bin/env node
+
+//Import commander.js
 const program = require('commander');
 
+//Import the search function
 const search = require('./search');
 
+//Initialise the program
 program
     .version("1.0.0")
     .description("Youtube Command-Line Tool");
@@ -12,7 +17,7 @@ program
     .alias('-s')
     .description("Search videos")
     .action(query => 
-        search(query)
+        search(query) //Call the search command and pass query
     );
 
 program.parse(process.argv);
