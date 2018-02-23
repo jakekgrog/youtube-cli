@@ -22,9 +22,7 @@
 ## App Info
 #### Authors:
 [Jake Grogan](https://www.github.com/r-dog),
-
 [Connor Mulready](https://www.github.com/mulreac),
-
 [Michael Collins](https://www.github.com/collins-m)
 
 #### Version:
