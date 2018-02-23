@@ -19,7 +19,7 @@
 4. Upload videos option
 
 
-## App Info
+## App Information
 #### Authors:
 [Jake Grogan](https://www.github.com/r-dog),
 [Connor Mulready](https://www.github.com/mulreac),
