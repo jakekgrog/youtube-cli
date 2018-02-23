@@ -6,6 +6,7 @@ program
     .version("1.0.0")
     .description("Youtube Command-Line Tool");
 
+// Process the search query by passing to ./search
 program
     .command('search <query>')
     .alias('-s')
