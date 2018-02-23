@@ -5,7 +5,7 @@
 
 # Installation Instructions
 
-###Prerequisites:
+### Prerequisites:
 1. NodeJS & NPM
 
 Clone this repository:
