@@ -5,8 +5,9 @@
 
 # Installation Instructions
 
+Clone this repository:
 ```
-#To be updated
+$ git clone https://www.github.com/r-dog/youtube-cli
 ```
 
 ##### To be updated
