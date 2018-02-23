@@ -1,7 +1,5 @@
 # Youtube-cli
-> A Youtube command line tool for Linux and Windows.
-
-*This is a work in progress and this README will be updated accordingly*
+> A Youtube command line tool for Linux.
 
 ---
 
