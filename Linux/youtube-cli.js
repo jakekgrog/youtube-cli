@@ -10,7 +10,7 @@ const download = require('./download');
 //Initialise the program
 program
     .version("1.0.0")
-    .description("Youtube Command-Line Tool");
+    .description("YouTube Command-Line Tool");
 
 // Process the search query by passing to ./search
 program
