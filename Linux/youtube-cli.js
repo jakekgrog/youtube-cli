@@ -3,8 +3,9 @@
 //Import commander.js
 const program = require('commander');
 
-//Import the search function
+//Import functions
 const search = require('./search');
+const download = require('./download');
 
 //Initialise the program
 program
@@ -18,6 +19,14 @@ program
     .description("Search videos")
     .action(query => 
         search(query) //Call the search command and pass query
+    );
+
+program
+    .command('download <query>')
+    .alias('d')
+    .description("Download videos")
+    .action(query => 
+        download(query)
     );
 
 program.parse(process.argv);

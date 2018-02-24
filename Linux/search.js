@@ -1,12 +1,13 @@
 const youtube = require('youtube-search');
 const opn = require('opn');
+const keys = require('./keys/keys');
 
 //Define search function
 const search = function search(query) {
     console.info("You've searched for: " + query + "\n");
     var opts = {
-        maxResults: 10,
-        key: 'AIzaSyBKn6paSgoe2XkSOUdtaLtD9XN_XRKVYXU'
+        maxResults: 25,
+        key: keys.YT_API_KEY
     }
 
     youtube(query, opts, function(err, results){

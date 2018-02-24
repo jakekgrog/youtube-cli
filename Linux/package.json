@@ -4,6 +4,7 @@
     "inquirer": "^5.1.0",
     "mongoose": "^5.0.6",
     "opn": "^5.2.0",
+    "youtube-dl": "^1.12.2",
     "youtube-search": "^1.0.10"
   },
   "name": "yt",
@@ -11,7 +12,7 @@
   "bin": "./youtube-cli.js",
   "version": "1.0.0",
   "description": "A YouTube Command Line Tool",
-  "main": "index.js",
+  "main": "youtube-cli.js",
   "author": "Jake Grogan, Connor Mulready, Michael Collins",
   "license": "MIT"
 }
