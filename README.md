@@ -18,14 +18,13 @@ In the Linux folder, run:
 $ npm link
 ```
 
-##### To be updated
+# Current Features:
+ 1. Search and play videos
+ 2. Search and download videos
 
 # Features To Come
 
-1. Search videos option
-2. Play videos option
-3. Download videos option
-4. Upload videos option
+1. Upload videos option
 
 
 ## App Information
